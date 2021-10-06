@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bushrasama04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bushrasama04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bushrasama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bushrasama" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bushra-sama-ab2285188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bushrasama" height="30" width="40" /></a>
 <a href="https://codesandbox.com/bushrasama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bushrasama" height="30" width="40" /></a>
 <a href="https://instagram.com/bushrasama04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bushrasama04" height="30" width="40" /></a>
 </p>
