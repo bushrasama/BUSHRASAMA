@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at **bushrajsama1@gmail.com**
 
-- 📄 You can check my [RESUME](https://drive.google.com/file/d/1zD2ED8LOvlmKEGlKPjhuFdE5FFythKdY/view?usp=sharing) for more details.
+- 📄 You can check my [RESUME](https://drive.google.com/file/d/1xKTCNk3LaTuGAsyuLNa29ofFY2Jrnsa6/view?usp=sharing) for more details.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
